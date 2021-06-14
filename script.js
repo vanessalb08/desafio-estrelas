@@ -1,4 +1,4 @@
-//Declarando variáveis necessárias
+//Declarando as constantes necessárias
 const image1 = document.querySelector('#imagem1');
 const image2 = document.querySelector('#imagem2');
 const image3 = document.querySelector('#imagem3');
